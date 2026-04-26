@@ -1,0 +1,1 @@
+This project is based on requirements in: [Roadmap] https://roadmap.sh/projects/scalable-ecommerce-platform
